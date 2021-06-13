@@ -1,0 +1,16 @@
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\bin\Debug\net5.0\Delegados.exe
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\bin\Debug\net5.0\Delegados.deps.json
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\bin\Debug\net5.0\Delegados.runtimeconfig.json
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\bin\Debug\net5.0\Delegados.runtimeconfig.dev.json
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\bin\Debug\net5.0\Delegados.dll
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\bin\Debug\net5.0\ref\Delegados.dll
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\bin\Debug\net5.0\Delegados.pdb
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.csprojAssemblyReference.cache
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.AssemblyInfoInputs.cache
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.AssemblyInfo.cs
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.csproj.CoreCompileInputs.cache
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.dll
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\ref\Delegados.dll
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.pdb
+D:\Study\Programacion\Mi Codigo\Delegados\Delegados\obj\Debug\net5.0\Delegados.genruntimeconfig.cache
